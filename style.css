@@ -9,7 +9,7 @@ html, body{
   overflow-x: hidden;
 }
 body{
-  background-image: url('./images/finalBcg.png');
+  background-image: url('images/finalBcg.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
